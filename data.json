@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "firstName": "Vinod",
+  "lastName": "Kumar",
+  "phone": "9000447940",
+  "profession": "Self Employed",
+  "location": {
+    "state": "telangana",
+    "district": "sangareddy",
+    "subdistrict": "kondapur",
+    "village": "malkapur-kondapur-sangareddy-telangana-502295"
+  },
+  "gallery": [],
+  "videos": [],
+  "village": "malkapur-kondapur-sangareddy-telangana-502295",
+  "profileImage": "",
+  "about": "",
+  "social": [],
+  "slides": [],
+  "business": {
+    "slides": [],
+    "categories": []
+  }
+}
